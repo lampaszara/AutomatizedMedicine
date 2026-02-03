@@ -1,0 +1,10 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="28" fill="#070A12"/>
+  <g opacity="0.9">
+    <rect x="200" y="120" width="400" height="260" rx="30" fill="#9B7BFF" opacity="0.25"/>
+    <rect x="240" y="160" width="320" height="180" rx="22" fill="#EAF0FF"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" fill="#A9B5D6" font-size="18">
+    Medical Pod / Autonomous Treatment Unit (fiction-inspired)
+  </text>
+</svg>
