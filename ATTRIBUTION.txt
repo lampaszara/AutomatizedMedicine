@@ -1,0 +1,15 @@
+Images (downloaded into assets/images) are provided under the Pixabay Content License:
+https://pixabay.com/service/license-summary/
+
+Files and source pages:
+- assets/images/robotic-surgery.png
+  Source: https://pixabay.com/illustrations/ai-generated-robot-surgery-hospital-8907178/
+  Direct file: https://cdn.pixabay.com/photo/2024/07/19/20/47/ai-generated-8907178_1280.png
+
+- assets/images/robot-nurse.jpg
+  Source: https://pixabay.com/illustrations/ai-generated-robot-nurse-humanoid-8559216/
+  Direct file: https://cdn.pixabay.com/photo/2024/02/07/14/53/ai-generated-8559216_1280.jpg
+
+- assets/images/robot-bedside.jpg
+  Source: https://pixabay.com/illustrations/robot-humanoid-robotics-hospital-8559226/
+  Direct file: https://cdn.pixabay.com/photo/2024/02/07/14/53/robot-8559226_1280.jpg
